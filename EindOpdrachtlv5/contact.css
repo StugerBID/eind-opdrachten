@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  font-family: "Open Sans Condensed", sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: gold;
+}
+
+img {
+  justify-content: flex-end;
+  display: flex;
+}
